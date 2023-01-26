@@ -12,7 +12,7 @@ Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o ef
 
 Para subistituir o plugin do **glTF 2.0 format**, siga estes passos simples:
 
-Esta versão é compatível com o Blender 3.3.x e inferior. Não funcionará com o Blender 3.4 ou superior.
+Esta versão é compatível com o **Blender 3.3.x** e inferior. Não funcionará com o Blender 3.4 ou superior.
 
 1. Feche o Blender caso o mesmo seteja aberto.
 2. Baixe o arquivo **io_scene_gltf2** clicando no icone **<> Code** em seguida clicando em **Download ZIP**
