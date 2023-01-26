@@ -22,7 +22,7 @@ from io_scene_gltf2.blender.exp.gltf2_blender_gather_materials_transmission impo
 from io_scene_gltf2.blender.exp.gltf2_blender_gather_materials_clearcoat import export_clearcoat
 from io_scene_gltf2.blender.exp.gltf2_blender_gather_materials_ior import export_ior
 from io_scene_gltf2.io.com.gltf2_io_extensions import Extension
-
+ 
 @cached
 def get_material_cache_key(blender_material, active_uvmap_index, export_settings):
     # Use id of material
@@ -62,7 +62,6 @@ def gather_material(blender_material, active_uvmap_index, export_settings):
     if any([i>1.0 for i in emissive_factor or []]) is True:
         # Strength is set on extension
         emission_strength = max(emissive_factor)
-
         # Recursos desativado, permitindo valores maiores que 1 para o emissiveFactor usado no Microsoft Flight Simulator 
         #emissive_factor = [f / emission_strength for f in emissive_factor]
 
