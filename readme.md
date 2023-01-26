@@ -1,4 +1,4 @@
-* Versão customizada do glTF 2.0 format
+## Versão customizada do glTF 2.0 format
 
 Nesta versão comentei a linha 64 em gltf2_blender_gather_materials.py
 
