@@ -2,7 +2,7 @@
 
 Nesta versão comentei a linha 64 em gltf2_blender_gather_materials.py
 
-emissive_factor = [f / emission_strength for f in emissive_factor]
+>emissive_factor = [f / emission_strength for f in emissive_factor]
 
 Essa linha limita o emissiveFactor do .gltf exportado para no máximo 1 impedindo a utilização do Bloom para iluminação.
 
@@ -10,7 +10,7 @@ Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o ef
 
 # Instalação
 
-Para subistituir o plugin do *glTF 2.0 format*, siga estes passos simples:
+Para subistituir o plugin do **glTF 2.0 format**, siga estes passos simples:
 
 Esta versão é compatível com o Blender 3.3.x e inferior. Não funcionará com o Blender 3.4 ou superior.
 
