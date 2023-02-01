@@ -1,6 +1,6 @@
 ## Versão customizada do glTF 2.0 format + Bloom
 
-Nesta versão foi comentada a linha 64 do arquivo **gltf2_blender_gather_materials.py** em **blender\exp\gltf2_blender_gather_materials.py**
+Nesta versão foi comentada a linha **64** do arquivo **gltf2_blender_gather_materials.py** em **blender\exp\gltf2_blender_gather_materials.py**
 
 >emissive_factor = [f / emission_strength for f in emissive_factor]
 
@@ -8,7 +8,7 @@ Essa linha limita o **emissiveFactor** do **.gltf** exportado para no máximo 1 
 
 Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o efeito Boom na emissão da iluminação
 
-Esta versão é compatível com o **Blender 3.3.3**, o mesmo vem apresentando erros em outras versões do Blender, então para seu correto funcionamento, instale o Blender 3.3.3 utilizando o link abaixo:<br>
+Esta versão é compatível com o **Blender 3.3.3**, o mesmo vem apresentando erros em outras versões do Blender, então para seu correto funcionamento, instale o **Blender 3.3.3** utilizando o link abaixo:<br>
 https://www.blender.org/download/releases/3-3/
 
 ### Instalação
