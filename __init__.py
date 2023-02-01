@@ -4,13 +4,13 @@
 bl_info = {
     'name': 'glTF 2.0 format',
     'author': 'Julien Duroure, Scurest, Norbert Nopper, Urs Hanselmann, Moritz Becher, Benjamin Schmithüsen, Jim Eckerlein, Sérgio Rocha and many external contributors',
-    "version": (3, 3, 37),
+    "version": (3, 3, 37, 1),
     'blender': (3, 3, 0),
     'location': 'File > Import-Export',
     'description': 'Import-Export as glTF 2.0',
     'warning': '',
     'doc_url': "{BLENDER_MANUAL_URL}/addons/import_export/scene_gltf2.html",
-    'tracker_url': "https://github.com/KhronosGroup/glTF-Blender-IO/issues/",
+    'tracker_url': "https://github.com/git-exahost/io_scene_gltf2",
     'support': 'OFFICIAL',
     'category': 'Import-Export',
 }
