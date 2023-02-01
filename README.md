@@ -8,7 +8,7 @@ Essa linha limita o **emissiveFactor** do **.gltf** exportado para no máximo 1 
 
 Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o efeito Boom na emissão da iluminação
 
-Esta versão é compatível com o **Blender 3.3.3**. Até o momento esta versão não funciona em outros versões do Blender, então instale o Blender 3.3.3 utilizando o link abaixo:<br>
+Esta versão é compatível com o **Blender 3.3.3**. Até o momento este plugin é incompativel com outas versões do Blender, então instale o Blender 3.3.3 utilizando o link abaixo:<br>
 https://www.blender.org/download/releases/3-3/
 
 ## Instalação
