@@ -16,9 +16,9 @@ Esta versão é compatível com o Blender 3.3.3. Não funciona em outras versõe
 
 1. Feche o Blender;
 2. Baixe o arquivo **io_scene_gltf2** clicando em **Releases** em seguida clicando em **io_scene_gltf2.zip**;
-3. Localize o local onde o Blender foi instalado
-4. Descompact o Zip baixado na pasta **C:\Users\seu usuario\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons** ou globalmente em **C:\Program Files\Blender Foundation\Blender 3.3\3.3\scripts\addons** substituindo todos os arquivos da pasta **io_scene_gltf2**;
+3. Localize a pasta onde o Blender foi instalado
+4. Descompact o Zip baixado na pasta **C:\Users\seu usuario\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons** ou globalmente em **C:\Program Files\Blender Foundation\Blender 3.3\3.3\scripts\addons** substituindo todos os arquivos da pasta **io_scene_gltf2** pelos arquivos do zip baixado;
 
-Agora instale o glTF-Blender-IO-MSFS na versão versão 1.3.1.xx no link abaixo<br>
+Agora instale o **glTF-Blender-IO-MSFS** na versão versão 1.3.1.xx no link abaixo<br>
 https://github.com/git-exahost/glTF-Blender-IO-MSFS/
 
