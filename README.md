@@ -11,7 +11,7 @@ Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o ef
 Esta versão é compatível com o **Blender 3.3.3**. Até o momento este plugin é incompativel com outas versões do Blender, então instale o Blender 3.3.3 utilizando o link abaixo:<br>
 https://www.blender.org/download/releases/3-3/
 
-## Instalação
+### Instalação
 
 Para substituir o plugin do **glTF 2.0 format**, siga estes passos simples:
 
