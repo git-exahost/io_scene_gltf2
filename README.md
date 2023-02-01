@@ -1,6 +1,6 @@
 ## Versão customizada do glTF 2.0 format + Bloom
 
-Nesta versão comentei a linha 64 em gltf2_blender_gather_materials.py
+Nesta versão foi comentada a linha 64 do arquivo **gltf2_blender_gather_materials.py** em **blender\exp\gltf2_blender_gather_materials.py**
 
 >emissive_factor = [f / emission_strength for f in emissive_factor]
 
