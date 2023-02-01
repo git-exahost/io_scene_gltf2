@@ -6,7 +6,7 @@ Nesta versão foi comentada a linha **64** do arquivo **gltf2_blender_gather_mat
 
 Essa linha limita o **emissiveFactor** do **.gltf** exportado para no máximo 1 impedindo a utilização do Bloom para iluminação.
 
-Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o efeito Boom na emissão da iluminação
+Com a linha removida, agora podemos utilizar valores maiores que 1 para dar o efeito Boom na emissão da iluminação.
 
 Esta versão é compatível com o **Blender 3.3.3**, o mesmo vem apresentando erros em outras versões do Blender, então para seu correto funcionamento, instale o **Blender 3.3.3** utilizando o link abaixo:<br>
 https://www.blender.org/download/releases/3-3/
